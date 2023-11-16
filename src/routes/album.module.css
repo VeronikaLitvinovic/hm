@@ -1,0 +1,14 @@
+  img {
+    align-items: center;
+    margin: 10px;
+    width: 200px;
+  }
+
+.album{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a:hover {
+    color: blue;
+}
